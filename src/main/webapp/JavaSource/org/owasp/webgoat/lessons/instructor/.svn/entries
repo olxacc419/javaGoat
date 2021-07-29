@@ -1,0 +1,43 @@
+10
+
+dir
+50186
+https://bugz.wh.lan/svn/SAST/InfraredSecurity.Jvm.Sca.Java.Test/resources/WebGoat/src/main/webapp/JavaSource/org/owasp/webgoat/lessons/instructor
+https://bugz.wh.lan/svn
+
+
+
+2013-03-13T19:59:35.010098Z
+40246
+ericsheridan
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+dc212a05-6ded-0310-8783-eeef19b186e5
+
+CrossSiteScripting
+dir
+
+DBCrossSiteScripting
+dir
+
+DBSQLInjection
+dir
+
+RoleBasedAccessControl
+dir
+
+SQLInjection
+dir
+

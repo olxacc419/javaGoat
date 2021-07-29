@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/!svn/ver/28962/SAST/InfraredSecurity.Jvm.Sca.Java.Test/resources/WebGoat/src/main/webapp/lessons/DBCrossSiteScripting
+END
+SearchStaff.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/!svn/ver/28962/SAST/InfraredSecurity.Jvm.Sca.Java.Test/resources/WebGoat/src/main/webapp/lessons/DBCrossSiteScripting/SearchStaff.jsp
+END
+error.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/!svn/ver/28962/SAST/InfraredSecurity.Jvm.Sca.Java.Test/resources/WebGoat/src/main/webapp/lessons/DBCrossSiteScripting/error.jsp
+END
+Login.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/!svn/ver/28962/SAST/InfraredSecurity.Jvm.Sca.Java.Test/resources/WebGoat/src/main/webapp/lessons/DBCrossSiteScripting/Login.jsp
+END
+DBCrossSiteScripting.css
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/!svn/ver/28962/SAST/InfraredSecurity.Jvm.Sca.Java.Test/resources/WebGoat/src/main/webapp/lessons/DBCrossSiteScripting/DBCrossSiteScripting.css
+END
+DBCrossSiteScripting.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/!svn/ver/28962/SAST/InfraredSecurity.Jvm.Sca.Java.Test/resources/WebGoat/src/main/webapp/lessons/DBCrossSiteScripting/DBCrossSiteScripting.jsp
+END
+EditProfile.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/!svn/ver/28962/SAST/InfraredSecurity.Jvm.Sca.Java.Test/resources/WebGoat/src/main/webapp/lessons/DBCrossSiteScripting/EditProfile.jsp
+END
+ListStaff.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/!svn/ver/28962/SAST/InfraredSecurity.Jvm.Sca.Java.Test/resources/WebGoat/src/main/webapp/lessons/DBCrossSiteScripting/ListStaff.jsp
+END
+ViewProfile.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/!svn/ver/28962/SAST/InfraredSecurity.Jvm.Sca.Java.Test/resources/WebGoat/src/main/webapp/lessons/DBCrossSiteScripting/ViewProfile.jsp
+END
