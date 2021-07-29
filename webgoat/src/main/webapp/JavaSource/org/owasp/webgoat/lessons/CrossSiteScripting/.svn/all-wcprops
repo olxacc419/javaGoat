@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/!svn/ver/40246/SAST/InfraredSecurity.Jvm.Sca.Java.Test/resources/WebGoat/src/main/webapp/JavaSource/org/owasp/webgoat/lessons/CrossSiteScripting
+END
+CrossSiteScripting.java
+K 25
+svn:wc:ra_dav:version-url
+V 173
+/svn/!svn/ver/40246/SAST/InfraredSecurity.Jvm.Sca.Java.Test/resources/WebGoat/src/main/webapp/JavaSource/org/owasp/webgoat/lessons/CrossSiteScripting/CrossSiteScripting.java
+END
+FindProfile.java
+K 25
+svn:wc:ra_dav:version-url
+V 166
+/svn/!svn/ver/40246/SAST/InfraredSecurity.Jvm.Sca.Java.Test/resources/WebGoat/src/main/webapp/JavaSource/org/owasp/webgoat/lessons/CrossSiteScripting/FindProfile.java
+END
+UpdateProfile.java
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/svn/!svn/ver/40246/SAST/InfraredSecurity.Jvm.Sca.Java.Test/resources/WebGoat/src/main/webapp/JavaSource/org/owasp/webgoat/lessons/CrossSiteScripting/UpdateProfile.java
+END
+EditProfile.java
+K 25
+svn:wc:ra_dav:version-url
+V 166
+/svn/!svn/ver/40246/SAST/InfraredSecurity.Jvm.Sca.Java.Test/resources/WebGoat/src/main/webapp/JavaSource/org/owasp/webgoat/lessons/CrossSiteScripting/EditProfile.java
+END
+ViewProfile.java
+K 25
+svn:wc:ra_dav:version-url
+V 166
+/svn/!svn/ver/40246/SAST/InfraredSecurity.Jvm.Sca.Java.Test/resources/WebGoat/src/main/webapp/JavaSource/org/owasp/webgoat/lessons/CrossSiteScripting/ViewProfile.java
+END

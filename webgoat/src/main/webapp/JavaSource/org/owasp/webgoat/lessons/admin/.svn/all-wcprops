@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/!svn/ver/40246/SAST/InfraredSecurity.Jvm.Sca.Java.Test/resources/WebGoat/src/main/webapp/JavaSource/org/owasp/webgoat/lessons/admin
+END
+ViewDatabase.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svn/!svn/ver/40246/SAST/InfraredSecurity.Jvm.Sca.Java.Test/resources/WebGoat/src/main/webapp/JavaSource/org/owasp/webgoat/lessons/admin/ViewDatabase.java
+END
+ReportCardScreen.java
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/svn/!svn/ver/40246/SAST/InfraredSecurity.Jvm.Sca.Java.Test/resources/WebGoat/src/main/webapp/JavaSource/org/owasp/webgoat/lessons/admin/ReportCardScreen.java
+END
+UserAdminScreen.java
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/svn/!svn/ver/40246/SAST/InfraredSecurity.Jvm.Sca.Java.Test/resources/WebGoat/src/main/webapp/JavaSource/org/owasp/webgoat/lessons/admin/UserAdminScreen.java
+END
+AdminScreen.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/!svn/ver/40246/SAST/InfraredSecurity.Jvm.Sca.Java.Test/resources/WebGoat/src/main/webapp/JavaSource/org/owasp/webgoat/lessons/admin/AdminScreen.java
+END
+WelcomeAdminScreen.java
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/svn/!svn/ver/40246/SAST/InfraredSecurity.Jvm.Sca.Java.Test/resources/WebGoat/src/main/webapp/JavaSource/org/owasp/webgoat/lessons/admin/WelcomeAdminScreen.java
+END
+ProductsAdminScreen.java
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/svn/!svn/ver/40246/SAST/InfraredSecurity.Jvm.Sca.Java.Test/resources/WebGoat/src/main/webapp/JavaSource/org/owasp/webgoat/lessons/admin/ProductsAdminScreen.java
+END
+SummaryReportCardScreen.java
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/svn/!svn/ver/40246/SAST/InfraredSecurity.Jvm.Sca.Java.Test/resources/WebGoat/src/main/webapp/JavaSource/org/owasp/webgoat/lessons/admin/SummaryReportCardScreen.java
+END
+RefreshDBScreen.java
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/svn/!svn/ver/40246/SAST/InfraredSecurity.Jvm.Sca.Java.Test/resources/WebGoat/src/main/webapp/JavaSource/org/owasp/webgoat/lessons/admin/RefreshDBScreen.java
+END
